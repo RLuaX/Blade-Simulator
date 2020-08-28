@@ -1,6 +1,7 @@
 --[[
-    Made by HellFire0x
-    Script as of [8/28/2020]
+    [Information]:
+        Made by HellFire0x
+        Script as of [8/28/2020]
 ]]
 
 local ReplicatedStorage = game.ReplicatedStorage;
