@@ -1,3 +1,8 @@
+--[[
+    Made by HellFire0x
+    Script as of [8/28/2020]
+]]
+
 local ReplicatedStorage = game.ReplicatedStorage;
 local Name = game.Players.LocalPlayer.Name;
 local SwordSwing = game:GetService("Workspace")[Name]["Black Sword"].Handle.SwordSwing;
